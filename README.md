@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **constantly diving into Python intricacies and innovative ML projects.**
 
-- 📝 I regularly write articles on [https://medium.com/@hashimlijr](https://medium.com/@hashimlijr)
+- 📝 I sometimes write articles on [https://medium.com/@hashimlijr](https://medium.com/@hashimlijr)
 
 - 💬 Ask me about **anything Python, PyTorch, or ML-related.**
 
