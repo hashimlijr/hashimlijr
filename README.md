@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Hashimli</h1>
+<a href=#><img src="contributions.svg"></a>
 <h3 align="center">A passionate Software Developer/Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimlijr&label=Profile%20views&color=0e75b6&style=flat" alt="hashimlijr" /> </p>
